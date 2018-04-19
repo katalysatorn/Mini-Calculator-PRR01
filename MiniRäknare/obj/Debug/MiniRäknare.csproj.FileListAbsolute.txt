@@ -1,0 +1,10 @@
+C:\Users\katalysatorn\Google Drive\School - 2017-18 (Norra Real)\Programmering Blair Burton\Work\Efterpåsk\MiniRäknare\MiniRäknare\bin\Debug\MiniRäknare.exe.config
+C:\Users\katalysatorn\Google Drive\School - 2017-18 (Norra Real)\Programmering Blair Burton\Work\Efterpåsk\MiniRäknare\MiniRäknare\bin\Debug\MiniRäknare.exe
+C:\Users\katalysatorn\Google Drive\School - 2017-18 (Norra Real)\Programmering Blair Burton\Work\Efterpåsk\MiniRäknare\MiniRäknare\bin\Debug\MiniRäknare.pdb
+C:\Users\katalysatorn\Google Drive\School - 2017-18 (Norra Real)\Programmering Blair Burton\Work\Efterpåsk\MiniRäknare\MiniRäknare\obj\Debug\MiniRäknare.csprojResolveAssemblyReference.cache
+C:\Users\katalysatorn\Google Drive\School - 2017-18 (Norra Real)\Programmering Blair Burton\Work\Efterpåsk\MiniRäknare\MiniRäknare\obj\Debug\MiniRäknare.Form1.resources
+C:\Users\katalysatorn\Google Drive\School - 2017-18 (Norra Real)\Programmering Blair Burton\Work\Efterpåsk\MiniRäknare\MiniRäknare\obj\Debug\MiniRäknare.Properties.Resources.resources
+C:\Users\katalysatorn\Google Drive\School - 2017-18 (Norra Real)\Programmering Blair Burton\Work\Efterpåsk\MiniRäknare\MiniRäknare\obj\Debug\MiniRäknare.csproj.GenerateResource.cache
+C:\Users\katalysatorn\Google Drive\School - 2017-18 (Norra Real)\Programmering Blair Burton\Work\Efterpåsk\MiniRäknare\MiniRäknare\obj\Debug\MiniRäknare.csproj.CoreCompileInputs.cache
+C:\Users\katalysatorn\Google Drive\School - 2017-18 (Norra Real)\Programmering Blair Burton\Work\Efterpåsk\MiniRäknare\MiniRäknare\obj\Debug\MiniRäknare.exe
+C:\Users\katalysatorn\Google Drive\School - 2017-18 (Norra Real)\Programmering Blair Burton\Work\Efterpåsk\MiniRäknare\MiniRäknare\obj\Debug\MiniRäknare.pdb
